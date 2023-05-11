@@ -3,10 +3,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-
+```
 - [ ] Buy groceries
 - [ ] Pick up the child
 - [ ] Do homework
